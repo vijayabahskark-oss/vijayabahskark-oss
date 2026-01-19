@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m a curious engineer-in-progress who enjoys turning real-world problems into systems that actually work.<br>I’m drawn to projects where data, logic, and impact intersect—especially when the solution has to survive contact with reality, not just pass a demo.<br>My interests sit at the intersection of software, data, and the physical world.<br>I enjoy working on projects where code has consequences beyond the screen, especially in areas like machine learning, geospatial analysis, and large-scale information systems. <br>I approach learning methodically: first principles first, shortcuts later.
-## "Veni,Vidi,Vici"
+### "Veni,Vidi,Vici"
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijaya-bahskar30406) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijayabahskarkp.mech2024@citchennai.net) 
